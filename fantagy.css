@@ -1,0 +1,76 @@
+
+
+header{
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+
+.list{
+  list-style: none;
+  display: inline-block;
+  margin: 0 30px;
+}
+
+.Guild{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.good-space{
+  background-color:#FFDDFF;
+  width: 80%;
+	height: auto;
+  margin: 50px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+}
+.good{
+	background-color: #DDFFFF;
+	width: 200px;
+	height: 100px;
+  border: 3px solid blue;
+  margin: 20px;
+  padding: 10px;
+}
+.intro{
+  background-color:white;
+	width: 150px;
+	height: 50px;
+}
+span{
+  background-color: wheat;
+}
+.intro-text{
+  margin: 0;
+}
+
+.page{
+  text-align: center;
+}
+
+.page p{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 3px;
+  background-color: lightblue;
+}
+
+.shop{
+  background-image: url(ファンタジー家森.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 30px auto;
+  padding: 20px;
+  width: 80%;
+  height: 400px;
+}
+.text{
+  width: 20%;
+  height: 200px;
+  background-color: rgba( 255, 255, 255, 0.8);
+}
